@@ -8,4 +8,4 @@ Bằng cách tận dụng các ký tự Unicode độ dài bằng không (Zero-w
 ---
 
 ## Tổng quan
-Trong thần thoại và triết học cổ đại, **Æther** là thứ lấp đầy khoảng không giữa các vì sao. Trong dự án này, các Zero-width characters chính là thứ tồn tại giữa các chữ cái thông thường, tạo nên một tầng ý nghĩa thứ hai bí ẩn.
+Trong thần thoại và triết học cổ đại, [**Æther**](https://en.wikipedia.org/wiki/Aether_(classical_element)) là thứ lấp đầy khoảng không giữa các vì sao. Trong dự án này, các Zero-width characters chính là thứ tồn tại giữa các chữ cái thông thường, tạo nên một tầng ý nghĩa thứ hai bí ẩn.
